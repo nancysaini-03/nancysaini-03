@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Nancy
+## Hi there 👋
 
-Exploring data analysis with hands-on projects while continuously learning new skills.  
+I'm Nancy, an aspiring data analyst exploring data analysis with hands-on projects while continuously learning new skills.  
 Currently focusing on Excel and Python, and learning SQL to deepen my skills.
 
 ---

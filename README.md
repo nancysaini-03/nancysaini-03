@@ -14,7 +14,9 @@ Currently focusing on Excel and Python, and learning SQL to deepen my skills.
 
 ## 🛠️ Skills & Tools
 
-<img width="55" height="83" alt="excel" src="https://github.com/user-attachments/assets/20a9e494-47ac-4b0d-83dd-99e96d3d0298" />     <img width="55" height="63" alt="python" src="https://github.com/user-attachments/assets/7bd3d760-fe56-4ffd-bd7b-fb3269af20ae" />     <img width="55" height="83" alt="mysql" src="https://github.com/user-attachments/assets/ca69b7af-0db4-444e-bced-ee546cbb79c1" />
+<img width="55" height="83" alt="excel" src="https://github.com/user-attachments/assets/20a9e494-47ac-4b0d-83dd-99e96d3d0298" />     
+<img width="55" height="63" alt="python" src="https://github.com/user-attachments/assets/7bd3d760-fe56-4ffd-bd7b-fb3269af20ae" />     
+https://www.google.com/imgres?q=logo%20mysql&imgurl=https%3A%2F%2Fwww.citypng.com%2Fpublic%2Fuploads%2Fpreview%2Fhd-mysql-logo-transparent-background-701751694771788209ydqoapx.png&imgrefurl=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F26159%2Fhd-mysql-logo-transparent-background&docid=KfDiledKO7QWmM&tbnid=Li-nr3jwmbRpxM&vet=12ahUKEwihufjCr8yPAxVqcfUHHTDlK30QM3oECBYQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwihufjCr8yPAxVqcfUHHTDlK30QM3oECBYQAA
 
 
 ## 🎯 Goals

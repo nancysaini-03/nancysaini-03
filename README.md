@@ -11,7 +11,6 @@ Currently focusing on Excel and Python, and learning SQL to deepen my skills.
 - 🐍 Python Data Analysis Exercises — Practicing data cleaning and visualization with Python libraries.  
 - 📚 More projects coming soon as I learn and grow!
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -19,7 +18,6 @@ Currently focusing on Excel and Python, and learning SQL to deepen my skills.
 - **Python** — Basics, data manipulation with Pandas, visualization with Matplotlib/Seaborn  
 - **SQL** — Currently learning to query databases and manage data
 
----
 
 ## 🎯 Goals
 
@@ -34,6 +32,5 @@ Currently focusing on Excel and Python, and learning SQL to deepen my skills.
   
 - 📧 nancysaini1308@gmail.com
 
----
 
 Thanks for visiting my GitHub! Feel free to check out my projects or reach out.

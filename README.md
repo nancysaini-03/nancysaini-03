@@ -7,7 +7,7 @@ Currently focusing on Excel and Python, and learning SQL to deepen my skills.
 
 ## 💼 Projects
 
-- 📊 [Bike Sales Dashboard] — An interactive Excel dashboard analyzing bike sales across India using KPIs and slicers.  
+- 📊 [Bike Sales Dashboard]https://github.com/nancysaini-03/Bike-sales-analysis-in-Excel — An interactive Excel dashboard analyzing bike sales across India using KPIs and slicers.  
 - 🐍 Python Data Analysis Exercises — Practicing data cleaning and visualization with Python libraries.  
 - 📚 More projects coming soon as I learn and grow!
 

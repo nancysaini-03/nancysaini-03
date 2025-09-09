@@ -14,9 +14,9 @@ Currently focusing on Excel and Python, and learning SQL to deepen my skills.
 
 ## 🛠️ Skills & Tools
 
-<img width="48" height="48" alt="icons8-excel-48" src="https://github.com/user-attachments/assets/42dc2339-2243-4295-86c3-0643f96c5a15" />  Data analysis, statistics, dashboards, pivot tables     
-<img width="50" height="50" alt="icons8-python-50" src="https://github.com/user-attachments/assets/88d86b24-781f-4898-b567-fed74a066c0a" />  Basics, data manipulation with Pandas, visualization with Matplotlib/Seaborn    
-<img width="50" height="50" alt="icons8-sql-50" src="https://github.com/user-attachments/assets/ae90149a-4398-4cab-b169-4b88b5b4cb23" />  Currently learning to query databases and manage data
+<img width="48" height="45" alt="icons8-excel-45" src="https://github.com/user-attachments/assets/42dc2339-2243-4295-86c3-0643f96c5a15" />  Data analysis, statistics, dashboards, pivot tables     
+<img width="50" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/88d86b24-781f-4898-b567-fed74a066c0a" />  Basics, data manipulation with Pandas, visualization with Matplotlib/Seaborn    
+<img width="48" height="48" alt="icons8-sql-50" src="https://github.com/user-attachments/assets/ae90149a-4398-4cab-b169-4b88b5b4cb23" />  Currently learning to query databases and manage data
 
 
 ## 🎯 Goals

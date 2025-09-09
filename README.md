@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm Nancy
 
-<!--
-**nancysaini-03/nancysaini-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring data analysis with hands-on projects while continuously learning new skills.  
+Currently focusing on Excel and Python, and learning SQL to deepen my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+
+- 📊 [Bike Sales Dashboard] — An interactive Excel dashboard analyzing bike sales across India using KPIs and slicers.  
+- 🐍 Python Data Analysis Exercises — Practicing data cleaning and visualization with Python libraries.  
+- 📚 More projects coming soon as I learn and grow!
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Excel** — Data analysis, statistics, dashboards, pivot tables  
+- **Python** — Basics, data manipulation with Pandas, visualization with Matplotlib/Seaborn  
+- **SQL** — Currently learning to query databases and manage data
+
+---
+
+## 🎯 Goals
+
+- Build practical data analysis projects to strengthen my skills  
+- Learn advanced SQL and database management  
+- Explore Power BI and other data visualization tools  
+- Prepare for data analyst roles in real-world environments
+
+---
+
+## 📫 Connect with Me
+  
+- 📧 nancysaini1308@gmail.com
+
+---
+
+Thanks for visiting my GitHub! Feel free to check out my projects or reach out.

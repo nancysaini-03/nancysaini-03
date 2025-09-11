@@ -14,9 +14,10 @@ Currently focusing on Excel and Python, and learning SQL to deepen my skills.
 
 ## 🛠️ Skills & Tools
 
-<img width="48" height="45" alt="icons8-excel-45" src="https://github.com/user-attachments/assets/42dc2339-2243-4295-86c3-0643f96c5a15" />  Data analysis, statistics, dashboards, pivot tables     
-<img width="50" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/88d86b24-781f-4898-b567-fed74a066c0a" />  Basics, data manipulation with Pandas, visualization with Matplotlib/Seaborn    
-[<img width="48" height="48" alt="icons8-sql-50" src="https://github.com/user-attachments/assets/ae90149a-4398-4cab-b169-4b88b5b4cb23" />](https://www.mysql.com)  Currently learning to query databases and manage data
+Well-versed in Excel (data analysis, dashboards, pivot tables), Python (data manipulation with Pandas, visualization using Matplotlib/Seaborn), and currently learning SQL for querying and managing databases.
+[<img width="48" height="45" alt="icons8-excel-45" src="https://github.com/user-attachments/assets/42dc2339-2243-4295-86c3-0643f96c5a15" />](https://www.microsoft.com/en-us/microsoft-365/excel) 
+[<img width="50" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/88d86b24-781f-4898-b567-fed74a066c0a" />](https://www.python.org)    
+[<img width="48" height="48" alt="icons8-sql-50" src="https://github.cion with Pandas, visualization with Matplotlib/Seabornom/user-attachments/assets/ae90149a-4398-4cab-b169-4b88b5b4cb23" />](https://www.mysql.com)  
 
 
 ## 🎯 Goals
